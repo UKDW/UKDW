@@ -1,0 +1,3 @@
+To provide the schema and etl functions to turn the uk gov open datasets into a data warehouse that can be used by anyone. The data warehouse should be buildable by anyone, anywhere, anytime.
+
+Take the data, transform it into a single format readable by anyone. done.
